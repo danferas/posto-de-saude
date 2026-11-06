@@ -7,11 +7,11 @@ O tema escolhido foi **Posto de Saúde**, com o objetivo de trabalhar com dados 
 
 A proposta é desenvolver conhecimentos em análise de dados, organização de informações e construção de projetos práticos, utilizando situações inspiradas na área da saúde.
 
-## 🎯 Objetivo
+## Objetivo
 
 Explorar dados relacionados aos atendimentos de um posto de saúde, buscando organizar informações e desenvolver análises que possam ajudar a compreender melhor o funcionamento dos serviços.
 
-## 📂 Projetos
+## Projetos
 
 | Projeto | Descrição | Status |
 |---|---|---|
@@ -21,7 +21,7 @@ Explorar dados relacionados aos atendimentos de um posto de saúde, buscando org
 | Projeto 04 | Em breve. | Não iniciado |
 | Projeto 05 | Em breve. | Não iniciado |
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - Python
 - Google Colab
@@ -29,7 +29,7 @@ Explorar dados relacionados aos atendimentos de um posto de saúde, buscando org
 - GitHub
 - Bibliotecas para manipulação e geração de dados
 
-## 📌 Observação
+## Observação
 
 Todos os dados utilizados nos projetos são fictícios e têm finalidade exclusivamente educacional.
 
