@@ -15,11 +15,11 @@ Explorar dados relacionados aos atendimentos de um posto de saúde, buscando org
 
 | Projeto | Descrição | Status |
 |---|---|---|
-| Projeto 01 — Base de Dados | Organização e estruturação das tabelas de pacientes e atendimentos. | Em desenvolvimento |
-| Projeto 02 | Em breve. | Não iniciado |
-| Projeto 03 | Em breve. | Não iniciado |
-| Projeto 04 | Em breve. | Não iniciado |
-| Projeto 05 | Em breve. | Não iniciado |
+| **Projeto 01 — Base de Dados** | Criação e organização das tabelas de pacientes e atendimentos. | Concluído |
+| **Projeto 02 — Estatística com Python** | Análise estatística dos dados, com foco no tempo de espera dos pacientes. | Em desenvolvimento |
+| **Projeto 03 — Relatório Dinâmico** | Construção de relatório com tabelas dinâmicas, gráficos e fórmulas no Excel. | Não iniciado |
+| **Projeto 04 — SQL e Visualização** | Consultas SQL, modelo relacional e visualização de dados. | Não iniciado |
+| **Projeto 05 — Big Data com Python** | Aplicação de conceitos de Big Data e Machine Learning ao tema. | Não iniciado |
 
 ## Tecnologias
 
