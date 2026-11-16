@@ -21,13 +21,16 @@ Explorar dados relacionados aos atendimentos de um posto de saúde, buscando org
 | **Projeto 04 — SQL e Visualização** | Consultas SQL, modelo relacional e visualização de dados. | Não iniciado |
 | **Projeto 05 — Big Data com Python** | Aplicação de conceitos de Big Data e Machine Learning ao tema. | Não iniciado |
 
-## Tecnologias
+## Tecnologias e ferramentas
 
-- Python
-- Google Colab
-- Google Sheets
-- GitHub
-- Bibliotecas para manipulação e geração de dados
+- **Python:** manipulação e análise de dados.
+- **Pandas e NumPy:** organização e cálculos estatísticos.
+- **Matplotlib e Seaborn:** visualização de dados.
+- **Google Colab:** desenvolvimento dos notebooks Python.
+- **Google Sheets:** organização e armazenamento das bases.
+- **Excel:** construção de relatórios dinâmicos.
+- **SQL:** consultas e manipulação de bancos de dados relacionais.
+- **Git e GitHub:** versionamento e documentação dos projetos.
 
 ## Observação
 
